@@ -2,6 +2,11 @@
 
 Este projeto é um sistema baseado em um petshop, oferecendo funcionalidades de um CRUD para gerenciar clientes, onde o "cliente" se refere ao animal de estimação. Além disso, o sistema permite a compra de produtos e serviços, fornecendo opções para adicionar, consultar, mostrar, atualizar e excluir informações dos pets.
 
+#### Tecnologias utilizadas:
+
+- Linguagens: Python;
+- Banco de Dados: MySQL.
+
 #### Principais funcionalidades:
 
 - Adicionar cliente: registre um novo pet com detalhes, como: nome do pet, cep, número, complemento, CPF do responsável, e-mail e telefone;
